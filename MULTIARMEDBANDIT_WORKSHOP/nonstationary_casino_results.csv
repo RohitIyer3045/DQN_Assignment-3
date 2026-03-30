@@ -1,0 +1,7 @@
+competition,strategy,epsilon,alpha,steps,runs,mean_total_reward,std_total_reward,mean_last100_reward,mean_optimal_action_rate
+Non-Stationary Casino,epsilon_greedy_constant_alpha,0.0,0.1,3000,10,2419.0,0.0,0.58,0.15333333333333332
+Non-Stationary Casino,epsilon_greedy_constant_alpha,0.05,0.1,3000,10,2598.4,15.704776343520463,0.905,0.27523333333333333
+Non-Stationary Casino,epsilon_greedy_constant_alpha,0.1,0.1,3000,10,2593.6,21.513716554793593,0.877,0.3051666666666667
+Non-Stationary Casino,epsilon_greedy_constant_alpha,0.2,0.1,3000,10,2530.0,19.88969582472291,0.819,0.3588
+Non-Stationary Casino,epsilon_greedy_constant_alpha,0.1,0.01,3000,10,2354.5,7.5,0.568,0.1484
+Non-Stationary Casino,epsilon_greedy_constant_alpha,0.1,0.3,3000,10,2632.7,22.077363973083383,0.85,0.4422

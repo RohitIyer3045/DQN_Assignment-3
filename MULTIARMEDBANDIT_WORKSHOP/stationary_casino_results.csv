@@ -1,0 +1,7 @@
+competition,strategy,epsilon,steps,runs,mean_total_reward,std_total_reward,mean_last100_reward,mean_optimal_action_rate
+Stationary Casino,epsilon_greedy,0.0,2000,10,1549.7,17.82722636867553,0.781,0.0
+Stationary Casino,epsilon_greedy,0.05,2000,10,1873.2,29.32507459496054,0.9570000000000001,0.8322499999999999
+Stationary Casino,epsilon_greedy,0.1,2000,10,1840.8,44.278211345988225,0.938,0.79995
+Stationary Casino,epsilon_greedy,0.2,2000,10,1793.2,16.26530048907797,0.9039999999999999,0.8044
+Stationary Casino,epsilon_greedy,0.5,2000,10,1563.9,16.385664466233894,0.791,0.5328999999999999
+Stationary Casino,epsilon_greedy_decaying,0.5->0.05,2000,10,1737.0,18.335757415498275,0.938,0.7231
